@@ -41,3 +41,21 @@ Entre no link do [problema](https://leetcode.com/problems/optimal-partition-of-s
 ### Screenshots
 
 ![Optimal Partition of String](/Optimal%20Partition%20of%20String//assets//figure1.png)
+
+### Vídeo explicando a solução
+
+Produzindo...
+
+## Exercício 2 - Maximum Bags With Full Capacity of Rocks
+
+Entre no link do [problema](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) e use o [código](/Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/solve.cpp) disponibilizado.
+
+**Linguagem**: C++<br>
+
+### Screenshots
+
+![Maximum Bags With Full Capacity of Rocks](/Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/assets/figura1.png)
+
+### Vídeo explicando a solução
+
+Produzindo...
