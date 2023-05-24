@@ -30,12 +30,14 @@ Resolução de exercícios online relacionados aos conteúdos abordados módulo 
 
 ## Uso
 
-Entre no site disponibilizado em cada exercício e utilize seu respectivo código para submeter.
+Entre no site disponibilizado em cada exercício e utilize seu respectivo código para submeter, é necessário fazer login para submeter algum código.
 
-## Screenshots
+## Exercício 1 - Optimal Partition of String
 
-Adicione 3 ou mais screenshots do projeto em funcionamento.
-
-## Instalação
+Entre no link do [problema](https://leetcode.com/problems/optimal-partition-of-string/) e use o [código](/Optimal%20Partition%20of%20String/solve.cpp) disponibilizado.
 
 **Linguagem**: C++<br>
+
+### Screenshots
+
+![Optimal Partition of String](/Optimal%20Partition%20of%20String//assets//figure1.png)
