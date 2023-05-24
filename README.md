@@ -1,45 +1,41 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+**!! Atenção: Renomeie o seu repositório para (Tema)\_(NomeDoProjeto). !!**
 
 Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+- Grafos1
+- Grafos2
+- PD
+- D&C
+- Greed
+- Final
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**!! _Não coloque os nomes dos alunos no título do repositório_. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
+
+(Apague essa seção)
+
+# Exercícios Greedy
+
+**Número da Lista**: 22<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula  | Aluno                      |
+| ---------- | -------------------------- |
+| 20/0042360 | Nicolas Roberto de Queiroz |
+
+## Sobre
+
+Resolução de exercícios online relacionados aos conteúdos abordados módulo de Greed.
+
+## Uso
+
+Entre no site disponibilizado em cada exercício e utilize seu respectivo código para submeter.
 
 ## Screenshots
+
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+## Instalação
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+**Linguagem**: C++<br>
