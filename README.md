@@ -29,7 +29,7 @@ Entre no link do [problema](https://leetcode.com/problems/optimal-partition-of-s
 
 ### Vídeo explicando a solução
 
-[Explicando o exercício](https://youtu.be/mbjS6AWhnL4)
+[Explicando o exercício](/Optimal%20Partition%20of%20String//assets//exercício1-OptimalPartitionofString.mp4)
 
 ## Exercício 2 - Maximum Bags With Full Capacity of Rocks
 
@@ -43,4 +43,4 @@ Entre no link do [problema](https://leetcode.com/problems/maximum-bags-with-full
 
 ### Vídeo explicando a solução
 
-[Explicando o exercício](https://youtu.be/VPo02o5gVSs)
+[Explicando o exercício](/Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/assets/exercício2MaximumBagsWithFullCapacityofRocks.mp4)
